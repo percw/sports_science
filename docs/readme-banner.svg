@@ -1,0 +1,30 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="520" rx="36" fill="#030712"/>
+  <rect x="24" y="24" width="1152" height="472" rx="28" fill="url(#bg)"/>
+
+  <circle cx="965" cy="116" r="144" fill="#0EA5E9" fill-opacity="0.1"/>
+  <circle cx="1024" cy="370" r="188" fill="#38BDF8" fill-opacity="0.05"/>
+
+  <rect x="84" y="92" width="220" height="34" rx="17" fill="#0B1220" stroke="#1E293B" stroke-width="1.5"/>
+  <text x="109" y="115" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.4">
+    OPEN SOURCE RESEARCH HUB
+  </text>
+
+  <text x="84" y="218" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800">
+    Human Endurance
+  </text>
+  <text x="84" y="292" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800">
+    Performance Lab
+  </text>
+  <text x="84" y="352" fill="#93C5FD" font-family="Arial, Helvetica, sans-serif" font-size="24">
+    Predefined protocols for open endurance research.
+  </text>
+  <path d="M84 396H462" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.9"/>
+
+  <defs>
+    <linearGradient id="bg" x1="24" y1="24" x2="1176" y2="496" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>

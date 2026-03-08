@@ -1,0 +1,5 @@
+numpy
+scipy
+fitparse
+gpxpy
+supabase

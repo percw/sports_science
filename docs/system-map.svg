@@ -1,0 +1,134 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="36" fill="#F3EFE7"/>
+  <rect x="36" y="36" width="1128" height="688" rx="28" fill="#FFFDF9" stroke="#DDD1BF" stroke-width="2"/>
+
+  <text x="72" y="96" fill="#241F17" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="800">
+    Open endurance research hub
+  </text>
+  <text x="72" y="128" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="20">
+    Predefined protocols, local-first capture, and transparent modeling.
+  </text>
+
+  <rect x="52" y="186" width="236" height="208" rx="24" fill="#DDEEF3" stroke="#BFD6DF" stroke-width="2"/>
+  <text x="80" y="226" fill="#195C72" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    PARTICIPANTS
+  </text>
+  <text x="80" y="268" fill="#241F17" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">
+    athletes and researchers
+  </text>
+  <text x="80" y="304" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    run studies in the field
+  </text>
+  <text x="80" y="332" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    complete short structured flows
+  </text>
+  <text x="80" y="360" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    produce longitudinal data
+  </text>
+
+  <rect x="336" y="186" width="258" height="208" rx="24" fill="#F4E3D9" stroke="#DFC0AA" stroke-width="2"/>
+  <text x="364" y="226" fill="#BF6534" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    PROTOCOL HUB
+  </text>
+  <text x="364" y="268" fill="#241F17" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">
+    Expo app workflows
+  </text>
+  <text x="364" y="304" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    morning baseline
+  </text>
+  <text x="364" y="332" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    evening mental load
+  </text>
+  <text x="364" y="360" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    session import and anchors
+  </text>
+  <text x="364" y="388" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    visible model view
+  </text>
+
+  <rect x="642" y="186" width="252" height="208" rx="24" fill="#F6F1E8" stroke="#DDD1BF" stroke-width="2"/>
+  <text x="670" y="226" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    LOCAL STATE
+  </text>
+  <text x="670" y="268" fill="#241F17" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">
+    SQLite staging layer
+  </text>
+  <text x="670" y="304" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    athlete profile and daily states
+  </text>
+  <text x="670" y="332" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    import jobs and local session refs
+  </text>
+  <text x="670" y="360" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    readiness snapshots
+  </text>
+
+  <rect x="942" y="186" width="186" height="208" rx="24" fill="#DCEFE5" stroke="#B8D5C6" stroke-width="2"/>
+  <text x="970" y="226" fill="#25624B" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    CLOUD
+  </text>
+  <text x="970" y="268" fill="#241F17" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">
+    Supabase
+  </text>
+  <text x="970" y="304" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    synced study tables
+  </text>
+  <text x="970" y="332" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    raw file storage
+  </text>
+  <text x="970" y="360" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    optional remote sync
+  </text>
+
+  <rect x="186" y="484" width="344" height="168" rx="24" fill="#DDEEF3" stroke="#BFD6DF" stroke-width="2"/>
+  <text x="214" y="524" fill="#195C72" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    EXTRACTION
+  </text>
+  <text x="214" y="566" fill="#241F17" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">
+    Python worker
+  </text>
+  <text x="214" y="600" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    FIT / GPX / TCX parsing
+  </text>
+  <text x="214" y="628" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    feature building and session labeling
+  </text>
+
+  <rect x="670" y="484" width="344" height="168" rx="24" fill="#ECE4F1" stroke="#D1C2DA" stroke-width="2"/>
+  <text x="698" y="524" fill="#5F466F" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+    MODELING
+  </text>
+  <text x="698" y="566" fill="#241F17" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">
+    Fatigue and readiness engine
+  </text>
+  <text x="698" y="600" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    four latent states
+  </text>
+  <text x="698" y="628" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    state-dependent recovery scoring
+  </text>
+
+  <path d="M288 290H336" stroke="#918777" stroke-width="4" stroke-linecap="round"/>
+  <path d="M594 290H642" stroke="#918777" stroke-width="4" stroke-linecap="round"/>
+  <path d="M894 290H942" stroke="#918777" stroke-width="4" stroke-linecap="round"/>
+  <path d="M768 394V446C768 468 752 484 732 484H530" stroke="#918777" stroke-width="4" stroke-linecap="round"/>
+  <path d="M530 568H670" stroke="#918777" stroke-width="4" stroke-linecap="round"/>
+
+  <circle cx="336" cy="290" r="8" fill="#918777"/>
+  <circle cx="642" cy="290" r="8" fill="#918777"/>
+  <circle cx="942" cy="290" r="8" fill="#918777"/>
+  <circle cx="530" cy="568" r="8" fill="#918777"/>
+
+  <text x="292" y="278" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">
+    protocolized input
+  </text>
+  <text x="572" y="278" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">
+    write local first
+  </text>
+  <text x="910" y="278" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">
+    sync when ready
+  </text>
+  <text x="560" y="556" fill="#6E6558" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">
+    score and compare
+  </text>
+</svg>

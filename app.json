@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Sport Science",
+    "slug": "sport-science",
+    "scheme": "sportscience",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.framlab.sportscience"
+    },
+    "extra": {
+      "supabaseUrl": "",
+      "supabaseAnonKey": "",
+      "supabaseBucket": "sport-science-raw"
+    }
+  }
+}
